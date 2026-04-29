@@ -219,5 +219,5 @@ optuna
 
 ---
 
-*ENS × QRT Data Challenge — 2025*
+*ENS × QRT Data Challenge — 2026*
 *Arts et Métiers ParisTech / Université Paris Dauphine*
